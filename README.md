@@ -1,5 +1,5 @@
 --[[ 
-    Ultimate Cheat UI v9.1 - Wall Check Update
+    Ultimate Cheat UI v9.1
 ]]
 
 local Players = game:GetService("Players")
